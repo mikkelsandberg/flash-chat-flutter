@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955179815995",
+    "firebase_url": "https://udemy-flash-chat-a1fe8.firebaseio.com",
+    "project_id": "udemy-flash-chat-a1fe8",
+    "storage_bucket": "udemy-flash-chat-a1fe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955179815995:android:21cf2d7673c8f3acefb81e",
+        "android_client_info": {
+          "package_name": "com.mikkelsandberg.udemyflashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955179815995-7llq387spsd04uin2qt974urfee41p4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPqnuFMwbXcdfAi_h5mL7W2Y-H6IbZncU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955179815995-7llq387spsd04uin2qt974urfee41p4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
